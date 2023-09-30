@@ -1,4 +1,4 @@
-package org.example.customPartitioner;
+package org.example.producer.customPartitioner;
 
 import java.util.List;
 import java.util.Map;
